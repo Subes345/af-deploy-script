@@ -7,23 +7,23 @@
     "repository": "https://github.com/Subes345",
     "success_url": "https://telegram.dog/CrazyBotsz",
     "env": {
-        "APP_ID": {
+        "APP_ID": {18974309
             "description": "Your APP ID From my.telegram.org or @UseTGXBot",
             "value": ""
         },
-        "API_HASH": {
+        "API_HASH": {ecea1a1afb08f536e6b8acbc3e4e5d0d
             "description": "Your API Hash From my.telegram.org or @UseTGXBot",
             "value": ""
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {5523438889:AAGhMxVgyTGTNDKAR0IgDMZvWTDahPJs-S0
             "description": "Your Bot Token From @BotFather",
             "value": ""
         },
-        "DB_URI": {
+        "DB_URI": {mongodb+srv://<username>:<password>@cluster0.j5nnt.mongodb.net/?retryWrites=true&w=majority
             "description": "Your Mongo DB URL Obtained From mongodb.com",
             "value": ""
         },
-        "USER_SESSION": {
+        "USER_SESSION": {BQCScxXQOetivMXIVHYqdVqBr_BKNFCDjEcOZ7rLQwkf9Y3RjZ6KGHQnq8U0hzm9A3Jb9QGNWV2ziJbbgPW359RoaNcR5B7GFLLh3yHvyGSMppph5OQ0o993Ryc_qBj9hPZsCnurhmyK3Kj7sknAUeFlFzTlw3qKz-FftptlXC7QKdqymXcqqDrzkPRU3cztKIefuHbKmO7Azmk8fBV6kwVxMLcRXC9ECsnT2FGBZFlXUYotNZdAmYUAeIzRniJxpekb46dizvB-EbOZBXUp0XPAqBr3P35ZlZzQjwxPZQ8FDnxAnUtQIYMniEgo1oamrgmrwwW0PnddH9mQlJOhXsDlf3MRNQA
             "description": "A Pyrogram User Session String. Generated From @getstr_bot",
             "value": ""
         }
